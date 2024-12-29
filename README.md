@@ -8,7 +8,7 @@
 <body>
 
 <div style=<text-align: center;">
-<a href="https://tinyurl.com/3kj2yj2s" title="LuckyPari"><img src="https://thumbs.dreamstime.com/z/blue-round-play-button-metallic-border-white-background-casino-playing-cards-dice-chips-online-poker-concept-design-d-124687594.jpg?ct=jpeg" title="LuckyPari" alt="LuckyPari"></a></div>
+<a href="https://tinyurl.com/3kj2yj2s" title="LuckyPari"><img src="https://static.wixstatic.com/media/2a8103_44a9e01ec3b4451cad8859f6fe231b70~mv2.webp" title="LuckyPari" alt="LuckyPari"></a></div>
 <div style=<text-align: center;">
 <a href="https://tinyurl.com/3kj2yj2s">
 <img src="https://apostamos.es/wp-content/uploads/2024/03/ruletas-online-estan-trucadas.jpg" />
